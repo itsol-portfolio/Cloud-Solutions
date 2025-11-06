@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – Cloud deployment and automation examples
+Includes PDF overview and sample script ZIP
+Date: November 2025
